@@ -2,7 +2,7 @@
 
 ![Graphical abstract](assets/graphical_abstract.png)
 
-Code and data behind every number and figure of the manuscript of the same title (Wahyu Rahmaniar, Institute of Science Tokyo; Bilal Ramzan, University of Agriculture, Faisalabad).
+Code and data behind every number and figure of the manuscript titled "Squeezed electromagnetic fields at thin-shell wormholes: null-energy bounds for material sources and charged exteriors".
 
 A static thin-shell wormhole joins two exteriors along a two-sphere of areal radius a₀, and the Israel conditions fix the stress that the shell must carry. A half-wave cavity with mercury walls straddles the throat, filled with vacuum or condensed hydrogen, and holds one 2 GHz mode per polarization. The code computes what this source supplies in the junction layer: the squeezed field of a stationary model, the complete Casimir vacuum stress of the planar stack from Lifshitz theory, thermal radiation and the hydrogen rest energy. It also derives the junction conditions for Reissner-Nordström exteriors.
 
